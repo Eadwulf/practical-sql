@@ -39,3 +39,6 @@
 **Chapter 19**: Maintaining Your Database provides tips and procedures for tracking the size of your database, customizing settings, and backing up data.
 
 **Chapter 20**: Telling Your Data’s Story provides guidelines for generating ideas for analysis, vetting data, drawing sound conclusions, and presenting your findings clearly.
+
+
+E-book at: https://learning.oreilly.com/library/view/practical-sql-2nd/9781098129866/

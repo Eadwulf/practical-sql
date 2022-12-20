@@ -1,0 +1,5 @@
+A column in the database with data type numeric(3, 8) will not be able to stored
+the values.
+
+The column in the target table should have a data dype numeric(8, 3) which means
+that it would have a precision of 8 and a scale of 3.
